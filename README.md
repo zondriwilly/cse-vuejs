@@ -1,4 +1,4 @@
-# csegoogle
+# Custom Search Engine with Google API and VueJS as FrondEnd
 
 ## Project setup
 ```
